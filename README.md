@@ -104,3 +104,7 @@ print(model.summary())
 - O tratamento de dados é essencial para evitar erros na modelagem.
 - O modelo final considera apenas variáveis estatisticamente significativas.
 - A análise dos coeficientes é feita pelo p-valor no resumo do modelo OLS.
+
+---
+
+[Clique aqui](https://youtu.be/0ra2fQab-ao) para acessar o vídeo executando o código
